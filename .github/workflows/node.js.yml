@@ -55,4 +55,4 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tags: user/app:latest
+          tags: karanbatavia/ci-cd-tester:latest
